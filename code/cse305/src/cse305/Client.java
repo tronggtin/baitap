@@ -9,6 +9,7 @@ public class Client {
                 return new LongTerm();
             case "ShortTerm":
                 return new ShortTerm();
+
         }
     }
 
